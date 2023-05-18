@@ -66,7 +66,7 @@ To start working with GitHub, you need to generate an ssh key:
 
 `ssh-keygen -t rsa -b 4096 -C "[your_email@example.com](mailto:your_email@example.com)"`
 
-cat id_rsa.pub
+`cat id_rsa.pub`
 
 Add public key to GitHub
 
