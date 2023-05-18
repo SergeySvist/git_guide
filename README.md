@@ -2,7 +2,7 @@
 
 After installing Git, you need to check the correct installation and version, for this you can use this command in console:
 
-`git --version` 
+```properties git --version```
 
 Once you've made sure everything works well, you need to save your name and email in the configs:
 
